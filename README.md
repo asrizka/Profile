@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asri Rizka</h1>
-<h3 align="center">Detail-oriented Informatics Engineering student with a strong passion for database management and web design.</h3>
+<h3 align="center">An ordinary student</h3>
 
 - 📫 How to reach me **asrizka23@gmail.com**
 
